@@ -8,3 +8,6 @@ This is a probe of UV — new tooling for Python
 Ran 
  - uv add ruff
  - uv run ruff check
+ - uv run hello.py
+
+ It looks like, I don't need to run source .venv/bin/activate — just use uv run and I get all the benefits of a virtual environment
