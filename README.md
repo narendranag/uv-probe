@@ -1,7 +1,8 @@
 # UV Probe
 This is a probe of UV — new tooling for Python
 
-- Video here: https://www.youtube.com/watch?v=gSKTfG1GXYQ
+- Video here by Astral Founder: https://www.youtube.com/watch?v=gSKTfG1GXYQ
+- Youtube guide: https://www.youtube.com/watch?v=ap2sWj5yDIY
 - Github here: https://github.com/astral-sh/uv?tab=readme-ov-file
 - Docs here: https://docs.astral.sh/uv/
 
